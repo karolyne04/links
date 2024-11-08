@@ -131,6 +131,7 @@ export default function Index() {
                         <Option name="Excluir" icon="delete" variant="secondary" onPress={handleRemove}/>
                         <Option name="Abrir" icon="language" onPress={handleOpen}/>
                     </View>
+                    
                 </View>
             </View>
            </Modal>
